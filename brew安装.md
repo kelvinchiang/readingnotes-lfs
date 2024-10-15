@@ -46,3 +46,12 @@ brew install wget
 
 很多好用的工具都可以被一键安装，实在是太方便了。
 
+### 安装groovy
+
+groovy是一个基于java的脚本语言，跟jenkins关系密切。如果要使用一些最新jenkins的功能或对其进行扩展，需要了解并编写groovy脚本的能力。
+
+```
+brew install groovy
+```
+
+安装的过程中可能会自动更新homebrew，可能需要一点时间。
